@@ -1,0 +1,492 @@
+[10-Feb-2016 02:20:53 America/Chicago] PHP Fatal error:  Class 'AddCampaigns' not found in /home4/amarhost/public_html/adwords/index.php on line 6
+[10-Feb-2016 02:29:35 America/Chicago] PHP Fatal error:  Class 'AddCampaigns' not found in /home4/amarhost/public_html/adwords/index.php on line 6
+[10-Feb-2016 02:34:18 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/amarhost/public_html/adwords/index.php on line 6
+[10-Feb-2016 02:34:47 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/amarhost/public_html/adwords/index.php on line 6
+[10-Feb-2016 02:35:18 America/Chicago] PHP Fatal error:  Cannot redeclare AddCampaigns() (previously declared in /home4/amarhost/public_html/adwords/index.php:28) in /home4/amarhost/public_html/adwords/function.php on line 138
+[10-Feb-2016 02:35:41 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/amarhost/public_html/adwords/index.php on line 6
+[10-Feb-2016 02:37:36 America/Chicago] PHP Fatal error:  Class 'AddCampaigns' not found in /home4/amarhost/public_html/adwords/index.php on line 6
+[10-Feb-2016 02:38:01 America/Chicago] PHP Fatal error:  Class 'AddCampaigns' not found in /home4/amarhost/public_html/adwords/index.php on line 121
+[10-Feb-2016 02:39:45 America/Chicago] PHP Catchable fatal error:  Argument 1 passed to AddCampaigns() must be an instance of AdWordsUser, none given, called in /home4/amarhost/public_html/adwords/index.php on line 121 and defined in /home4/amarhost/public_html/adwords/index.php on line 23
+[10-Feb-2016 03:53:15 America/Chicago] PHP Catchable fatal error:  Argument 1 passed to AddCampaigns() must be an instance of AdWordsUser, none given, called in /home4/amarhost/public_html/adwords/index.php on line 6 and defined in /home4/amarhost/public_html/adwords/index.php on line 29
+[10-Feb-2016 04:00:35 America/Chicago] PHP Catchable fatal error:  Argument 1 passed to AddCampaigns() must be an instance of AdWordsUser, none given, called in /home4/amarhost/public_html/adwords/index.php on line 6 and defined in /home4/amarhost/public_html/adwords/index.php on line 29
+[10-Feb-2016 04:04:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/amarhost/public_html/adwords/index.php on line 6
+[10-Feb-2016 04:09:35 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home4/amarhost/public_html/adwords/index.php on line 6
+[10-Feb-2016 04:10:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/amarhost/public_html/adwords/index.php on line 7
+[10-Feb-2016 04:10:40 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/amarhost/public_html/adwords/index.php on line 6
+[10-Feb-2016 04:21:30 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/amarhost/public_html/adwords/index.php on line 4
+[10-Feb-2016 04:22:00 America/Chicago] PHP Fatal error:  Class 'id' not found in /home4/amarhost/public_html/adwords/index.php on line 4
+[10-Feb-2016 04:22:14 America/Chicago] PHP Fatal error:  Class name must be a valid object or a string in /home4/amarhost/public_html/adwords/index.php on line 4
+[10-Feb-2016 05:06:18 America/Chicago] PHP Fatal error:  Class name must be a valid object or a string in /home4/amarhost/public_html/adwords/index.php on line 4
+[10-Feb-2016 05:09:53 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home4/amarhost/public_html/adwords/index.php on line 3
+[10-Feb-2016 05:26:58 America/Chicago] PHP Fatal error:  Call to a member function GetService() on a non-object in /home4/amarhost/public_html/adwords/function.php on line 49
+[10-Feb-2016 05:27:31 America/Chicago] PHP Fatal error:  Call to a member function GetService() on a non-object in /home4/amarhost/public_html/adwords/function.php on line 49
+[10-Feb-2016 05:27:53 America/Chicago] PHP Fatal error:  Call to a member function GetService() on a non-object in /home4/amarhost/public_html/adwords/function.php on line 49
+[10-Feb-2016 05:27:56 America/Chicago] PHP Fatal error:  Call to a member function GetService() on a non-object in /home4/amarhost/public_html/adwords/function.php on line 49
+[10-Feb-2016 05:47:09 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 12
+[10-Feb-2016 06:02:29 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 12
+[10-Feb-2016 06:02:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 12
+[10-Feb-2016 06:06:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 12
+[10-Feb-2016 06:08:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 12
+[10-Feb-2016 06:08:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 12
+[10-Feb-2016 06:12:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 20
+[10-Feb-2016 06:12:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 20
+[10-Feb-2016 06:12:59 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 21
+[10-Feb-2016 06:13:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 21
+[10-Feb-2016 06:13:41 America/Chicago] PHP Fatal error:  Cannot redeclare GetCampaigns() (previously declared in /home4/amarhost/public_html/adwords/function.php:3) in /home4/amarhost/public_html/adwords/function.php on line 43
+[10-Feb-2016 06:14:20 America/Chicago] PHP Fatal error:  Call to a member function GetService() on a non-object in /home4/amarhost/public_html/adwords/function.php on line 47
+[10-Feb-2016 06:21:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home4/amarhost/public_html/adwords/index.php on line 14
+[10-Feb-2016 06:22:42 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] DateError.INVALID_STRING_DATE @  in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/CampaignService.php(7933): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(129): CampaignService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'hb', '11', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[10-Feb-2016 06:47:18 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(66): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'hb', '11', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[10-Feb-2016 06:51:33 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] DateError.INVALID_STRING_DATE @  in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/CampaignService.php(7933): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(129): CampaignService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'gurpreet', '111', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[10-Feb-2016 06:55:22 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(66): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'gurpreet', '111', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[10-Feb-2016 06:56:41 America/Chicago] PHP Catchable fatal error:  Object of class AdWordsUser could not be converted to string in /home4/amarhost/public_html/adwords/function.php on line 47
+[10-Feb-2016 06:57:06 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(71): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'gurpreet', '111', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[10-Feb-2016 06:59:55 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(71): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'gurpreet', '111', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[10-Feb-2016 07:15:53 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(71): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'gurpreet', '111', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[10-Feb-2016 08:30:32 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(71): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/adwords_dashboard.php(19): AddCampaigns(Object(AdWordsUser), 'gurpreet', 'SEARCH', 'STANDARD', 250000000, '10-02-2016', '12-02-2016')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[10-Feb-2016 08:36:07 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(71): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'hb', '11', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[10-Feb-2016 23:55:05 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RequiredError.REQUIRED @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(71): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), NULL, NULL, NULL, NULL, NULL, NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 00:10:24 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(71): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'hb', '11', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 00:11:06 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(67): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'hb', '11', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 00:21:16 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(67): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'hb', '11', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 00:24:02 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(67): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(14): AddCampaigns(Object(AdWordsUser), 'hb', '11', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 00:25:36 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(67): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(12): AddCampaigns(Object(AdWordsUser), 'hb', '11', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 00:25:51 America/Chicago] PHP Catchable fatal error:  Argument 1 passed to AddCampaigns() must be an instance of AdWordsUser, string given, called in /home4/amarhost/public_html/adwords/index.php on line 12 and defined in /home4/amarhost/public_html/adwords/function.php on line 45
+[11-Feb-2016 00:26:13 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(67): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(12): AddCampaigns(Object(AdWordsUser), 'hb', '11', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 00:39:45 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(68): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(12): AddCampaigns(Object(AdWordsUser), 'hb', '11', 'hh', '12', '444', '5554')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:00:10 America/Chicago] PHP Warning:  Missing argument 3 for AddCampaigns(), called in /home4/amarhost/public_html/adwords/index.php on line 12 and defined in /home4/amarhost/public_html/adwords/function.php on line 46
+[11-Feb-2016 06:00:12 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RequiredError.REQUIRED @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(12): AddCampaigns(Object(AdWordsUser), NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:02:27 America/Chicago] PHP Warning:  Missing argument 3 for AddCampaigns(), called in /home4/amarhost/public_html/adwords/index.php on line 12 and defined in /home4/amarhost/public_html/adwords/function.php on line 46
+[11-Feb-2016 06:02:29 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RequiredError.REQUIRED @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(12): AddCampaigns(Object(AdWordsUser), NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:05:09 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RequiredError.REQUIRED @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), NULL, NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:06:46 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RequiredError.REQUIRED @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), NULL, NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:07:44 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RequiredError.REQUIRED @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), NULL, NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:11:19 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RequiredError.REQUIRED @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), NULL, NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:11:48 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'gurpreet', '111')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:12:07 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'gurpreet', 'Search')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:12:34 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'gurpreet', 'SEARCH')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:14:51 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'gurpreet', 'SEARCH')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:17:18 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'gurpreet')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:18:12 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'gurpreet')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:19:22 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'gurpreet')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[11-Feb-2016 06:20:23 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'gurpreet')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 00:01:21 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RequiredError.REQUIRED @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 00:11:15 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'hb')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 02:17:25 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.DUPLICATE_NAME @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(69): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'saini')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:28:24 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'lolzzzzzz', '150')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:29:09 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.MONEY_AMOUNT_LESS_THAN_CURRENCY_MINIMUM_CPC @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'lolzzzzzz', '150')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:29:25 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.MONEY_AMOUNT_LESS_THAN_CURRENCY_MINIMUM_CPC @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'lolzzzzzz', '50')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:31:44 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'lolzzzzzz', '50')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:34:07 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'lolzzzzzz', '50')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:44:53 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'lolzzzzzz', '5000000')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:45:03 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'lolzzggz', '5000000')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:46:23 America/Chicago] PHP Catchable fatal error:  Object of class Budget could not be converted to string in /home4/amarhost/public_html/adwords/function.php on line 58
+[12-Feb-2016 07:47:09 America/Chicago] PHP Catchable fatal error:  Object of class Budget could not be converted to string in /home4/amarhost/public_html/adwords/function.php on line 58
+[12-Feb-2016 07:48:27 America/Chicago] PHP Catchable fatal error:  Object of class Budget could not be converted to string in /home4/amarhost/public_html/adwords/function.php on line 58
+[12-Feb-2016 07:52:29 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'lolzzggz', '5000000')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:52:37 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'jgngjmgh', '5000000')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:52:52 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'jgngjmgh', '500000000')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 07:55:30 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'jgngjmgh', '500000000')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 22:24:32 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RequiredError.REQUIRED @ operations[0].operand.name] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 23:52:01 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.MONEY_AMOUNT_LESS_THAN_CURRENCY_MINIMUM_CPC @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'sss')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 23:52:10 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.MONEY_AMOUNT_LESS_THAN_CURRENCY_MINIMUM_CPC @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'sssss')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 23:52:30 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.MONEY_AMOUNT_LESS_THAN_CURRENCY_MINIMUM_CPC @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'sssss')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 23:52:35 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.MONEY_AMOUNT_LESS_THAN_CURRENCY_MINIMUM_CPC @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(11): AddCampaigns(Object(AdWordsUser), 'sssss')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 23:54:57 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'llllll', '1500000')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 23:55:02 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'llllll', '15000000')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[12-Feb-2016 23:55:09 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'llllll', '150000000')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[13-Feb-2016 00:10:42 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [BudgetError.MONEY_AMOUNT_LESS_THAN_CURRENCY_MINIMUM_CPC @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'llllll', '150')
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[14-Feb-2016 23:57:03 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(70): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(13): AddCampaigns(Object(AdWordsUser), 'gurpreet', NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
+[15-Feb-2016 02:23:45 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] [RangeError.TOO_LOW @ operations[0].operand.amount] in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php:216
+Stack trace:
+#0 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php(216): SoapClient->__soapCall('mutate', Array, NULL, Array, Array)
+#1 /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/AdWords/v201509/BudgetService.php(4131): AdsSoapClient->__soapCall('mutate', Array)
+#2 /home4/amarhost/public_html/adwords/function.php(66): BudgetService->mutate(Array)
+#3 /home4/amarhost/public_html/adwords/index.php(7): AddCampaigns(Object(AdWordsUser), NULL, NULL)
+#4 {main}
+  thrown in /home4/amarhost/public_html/adwords/lib/Google/Api/Ads/Common/Lib/AdsSoapClient.php on line 216
